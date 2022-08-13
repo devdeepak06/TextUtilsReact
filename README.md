@@ -1,3 +1,8 @@
+This is my final frt project<br>
+**Azure Link**
+https://orange-forest-0bd34b410.1.azurestaticapps.net
+
+**Heroku Link**
 <a href="https://textutility.herokuapp.com" target="_blank">Live Demo</a><br>
 This website is create using React-js.<br>
 Samples of my website<br>
